@@ -1,6 +1,6 @@
 //N.I.T.Hewage
 //IT19220116
-//Y3S1_design patterns in class activity 01
+//Y3S1_SA_design patterns in class activity 01
 
 class Main {
   public static void main(String[] args) {
